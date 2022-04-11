@@ -10,7 +10,7 @@ Change the BASE_URL in .env file to http://localhost:3000
 Clone the project
 
 ```bash
-  git clone https://github.com/Shri01kumari/msTeams
+  git clone https://github.com/Baibhav8600/microsoft_teams
 ```
 
 Install dependencies
@@ -47,7 +47,7 @@ https://teams-clone-appv3.herokuapp.com/
   
 ## Author
 
-- [@Shri01kumari](https://github.com/Shri01kumari)
+- [@Baibhav8600](https://github.com/Baibhav8600)
 
 ## Appendix
 
